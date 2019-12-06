@@ -1,0 +1,6 @@
+name: advent_of_code_2019
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pandas>=0.25.3
